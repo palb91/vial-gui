@@ -7,4 +7,4 @@ jobs:
     runs-on: self-hosted
 
     - name: Build
-      run: sh -c "echo Hello World!"
+      run: sh ./run.sh
